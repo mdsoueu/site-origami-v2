@@ -1,0 +1,23 @@
+HTML:
+um título;
+um subtítulo;
+um cabeçalho;
+duas secções;
+três parágrafos;
+duas listas;
+quatro imagens;
+três links;
+um conteúdo lateral;
+um rodapé;
+
+CSS:
+um título - text-align: center;
+um subtítulo - text-align: right;
+um cabeçalho - padding: 10px 10px 10px 15px;
+duas secções - .seccao1 {display: block, } , .seccao2 {display: block};
+três parágrafos - .p1 {display: inline-block} , .p2 {display: inline-block} , .p3 {display: inline};
+duas listas - .lista1 {display: inline-block; border: 5px solid blue;} , .lista2 {display: inline-block; borda pontilhada vermelha};
+quatro imagens - .imagem1 {height: 50vh; widht: 50vw} , .imagem2 {height: 50vh; widht: 50vw} , .imagem3 {height: 50vh; widht: 50vw} , .imagem4 {height: 50vh; widht: 50vw};
+três links - .link {text-decoration: none;};
+um conteúdo lateral - .lateral {display: inline-block; text-align: right;};
+um rodapé - .rodape{text-align: center; borda tracejada verde}

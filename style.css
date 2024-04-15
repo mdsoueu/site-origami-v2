@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+/* Head */
+.titulo {
+    display: block;
+    text-align: center;
+    margin: 9px;
+    font-family: 'Bebas Neue';
+    font-size: 70px;
+    border: double;
+}
+.subtitulo {
+    display: block;
+    text-align: right;
+    text-decoration: underline;
+    padding-right: 150px;
+    font-family: 'Bebas Neue';
+    font-size: 25px;
+}
+.cabecalho {
+    display: block;
+    text-align: center;
+    padding: 10px 10px 10px 15px;
+}
+
+/* Body */
+.seccao1 {
+    display: block;
+    text-align: center;
+}
+.paragrafo1 {
+    display: inline-block;
+    text-align: justify;
+}
+.paragrafo2 {
+    display: inline-block;
+    text-align: justify;
+    padding-left: 90px;
+}
+.seccao2 {
+    display: block;
+    text-align: right;
+}
+.paragrafo3 {
+    display: inline-block;
+    text-align: justify;
+    padding-left: 10%;
+}
+
+/* Aside */
+.lateral {
+    display: inline-block;
+    width: 30%;
+    padding-left: 15px;
+    /* padding-right: 10px; */
+    margin-left: 15px;
+    font-style: italic;
+    background-color: lightgray;
+}
+.paragrafo4 {
+    float: right;
+    display: block;
+    text-align: center;
+    font-size: small;
+    padding: 8px;
+}
+
+/* Lista */
+.lista1 {
+    display: inline-block;
+    padding: 10px;
+    border: 4px solid blue;
+    margin-right: 190px;
+    margin-left: 250px;
+}
+.lista2 {
+    display: inline-block;
+    padding: 10px;
+    border: 4px dotted red;
+    margin-right: 50px;
+}
+
+/* Imagem */
+.imagem1 {
+    display: inline-block;
+    width: 20%;
+    height: auto;
+    /* margin-top: 3%; */
+    padding-left: 30%;
+    padding-right: 10px;
+}
+.imagem2 {
+    display: inline-block;
+    width: 23%;
+    height: auto;
+}
+.imagem3 {
+    display: inline-block;
+    width: 20%;
+    height: auto;
+    padding-left: 32%;
+    padding-right: 10px;
+}
+.imagem4 {
+    display: inline-block;
+    width: 16%;
+    height: auto;
+    border: 2px solid black;
+}
+
+.textoImagem1 {
+    font-size: small;
+    /* text-align: center; */
+    display: inline-block;
+    padding-left: 36%;
+    margin-bottom: 5%;
+}
+.textoImagem2 {
+    font-size: small;
+    /* text-align: center; */
+    display: inline-block;
+    padding-left: 15%;
+}
+.textoImagem3 {
+    font-size: small;
+    /* text-align: center; */
+    display: inline-block;
+    padding-left: 36%;
+}
+.textoImagem4 {
+    font-size: small;
+    /* text-align: center; */
+    display: inline-block;
+    padding-left: 12%;
+}
+
+/* Footer */
+.rodape {
+    display: block;
+    text-align: center;
+    margin: 9px;
+    padding: 7px;
+    border: 2px dashed green;
+}
